@@ -1,0 +1,5 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:443:48:lv_color_mix	24	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/table/lv_example_table_1.c:4:13:draw_part_event_cb	40	static
+../lvgl/examples/widgets/table/lv_example_table_1.c:33:6:lv_example_table_1	16	static

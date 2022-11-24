@@ -1,0 +1,4 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:592:26:lv_color_make	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:697:26:lv_color_black	8	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/label/lv_example_label_2.c:7:6:lv_example_label_2	24	static

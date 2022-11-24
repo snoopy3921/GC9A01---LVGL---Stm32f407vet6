@@ -1,0 +1,4 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:284:26:lv_pct	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_style.h:490:20:lv_style_set_pad_ver	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/styles/lv_example_style_1.c:7:6:lv_example_style_1	16	static

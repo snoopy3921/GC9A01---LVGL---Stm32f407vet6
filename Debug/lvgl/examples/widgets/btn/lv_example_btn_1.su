@@ -1,0 +1,4 @@
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/btn/lv_example_btn_1.c:4:13:event_handler	24	static
+../lvgl/examples/widgets/btn/lv_example_btn_1.c:16:6:lv_example_btn_1	24	static

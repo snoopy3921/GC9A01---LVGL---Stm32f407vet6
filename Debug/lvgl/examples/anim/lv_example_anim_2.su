@@ -1,0 +1,13 @@
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:121:20:lv_anim_set_var	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:133:20:lv_anim_set_exec_cb	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:143:20:lv_anim_set_time	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:164:20:lv_anim_set_values	24	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:191:20:lv_anim_set_path_cb	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:232:20:lv_anim_set_playback_time	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:242:20:lv_anim_set_playback_delay	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:252:20:lv_anim_set_repeat_count	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:262:20:lv_anim_set_repeat_delay	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/anim/lv_example_anim_2.c:5:13:anim_x_cb	16	static
+../lvgl/examples/anim/lv_example_anim_2.c:10:13:anim_size_cb	16	static
+../lvgl/examples/anim/lv_example_anim_2.c:18:6:lv_example_anim_2	80	static

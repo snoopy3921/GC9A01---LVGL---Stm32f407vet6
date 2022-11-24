@@ -1,0 +1,4 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_style.h:476:20:lv_style_set_pad_all	16	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/span/lv_example_span_1.c:7:6:lv_example_span_1	24	static

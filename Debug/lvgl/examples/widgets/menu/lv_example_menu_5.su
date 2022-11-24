@@ -1,0 +1,15 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:379:24:lv_color_to32	24	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:584:23:lv_color_brightness	24	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_obj_style_gen.h:103:26:lv_obj_get_style_pad_left	24	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_obj_style_gen.h:127:26:lv_obj_get_style_bg_color	24	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_obj_style.h:205:20:lv_obj_set_style_pad_hor	24	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:84:20:lv_slider_set_value	24	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:20:6:lv_example_menu_5	72	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:110:13:back_event_handler	40	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:121:13:switch_handler	32	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:139:19:create_text	40	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:167:19:create_slider	32	static
+../lvgl/examples/widgets/menu/lv_example_menu_5.c:183:19:create_switch	32	static

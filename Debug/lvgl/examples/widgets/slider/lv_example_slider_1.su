@@ -1,0 +1,5 @@
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:130:23:lv_slider_get_value	16	static
+../lvgl/examples/widgets/slider/lv_example_slider_1.c:10:6:lv_example_slider_1	24	static
+../lvgl/examples/widgets/slider/lv_example_slider_1.c:24:13:slider_event_cb	40	static

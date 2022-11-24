@@ -1,0 +1,7 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:133:26:lv_area_get_height	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:592:26:lv_color_make	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:693:26:lv_color_white	8	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:6:13:draw_event_cb	104	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:40:13:change_event_cb	32	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:55:6:lv_example_table_2	96	static

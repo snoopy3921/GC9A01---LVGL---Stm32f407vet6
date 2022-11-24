@@ -1,0 +1,8 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:592:26:lv_color_make	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:84:20:lv_slider_set_value	24	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:106:20:lv_slider_set_range	24	static
+C:/Users/giahu/source/TFT/lvgl/src/widgets/lv_slider.h:130:23:lv_slider_get_value	16	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:14:6:lv_example_img_2	16	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:41:13:slider_event_cb	32	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:52:19:create_slider	24	static

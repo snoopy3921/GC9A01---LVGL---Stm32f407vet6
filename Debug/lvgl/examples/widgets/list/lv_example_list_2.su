@@ -1,0 +1,12 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:284:26:lv_pct	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+C:/Users/giahu/source/TFT/lvgl/src/lv_api_map.h:55:20:lv_obj_move_foreground	24	static
+C:/Users/giahu/source/TFT/lvgl/src/lv_api_map.h:67:20:lv_obj_move_background	16	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:12:13:event_handler	40	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:45:13:event_handler_top	24	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:56:13:event_handler_up	24	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:69:13:event_handler_center	32	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:85:13:event_handler_dn	24	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:98:13:event_handler_bottom	24	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:109:13:event_handler_swap	40	static
+../lvgl/examples/widgets/list/lv_example_list_2.c:129:6:lv_example_list_2	32	static

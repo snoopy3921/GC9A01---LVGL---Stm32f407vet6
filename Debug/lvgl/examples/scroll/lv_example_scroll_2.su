@@ -1,0 +1,5 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:284:26:lv_pct	16	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/scroll/lv_example_scroll_2.c:4:13:sw_event_cb	32	static
+../lvgl/examples/scroll/lv_example_scroll_2.c:20:6:lv_example_scroll_2	40	static

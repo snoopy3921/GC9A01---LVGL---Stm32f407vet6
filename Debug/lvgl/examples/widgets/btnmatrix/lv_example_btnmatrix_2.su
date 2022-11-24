@@ -1,0 +1,9 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:123:26:lv_area_get_width	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:133:26:lv_area_get_height	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:592:26:lv_color_make	16	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:693:26:lv_color_white	8	static
+c:\users\giahu\source\tft\lvgl\src\misc\lv_color.h:697:26:lv_color_black	8	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:5:13:event_cb	80	static
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:65:6:lv_example_btnmatrix_2	16	static

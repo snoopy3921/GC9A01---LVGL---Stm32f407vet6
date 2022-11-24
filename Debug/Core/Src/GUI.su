@@ -1,0 +1,2 @@
+../Core/Src/GUI.c:12:6:Paint_DrawImage	32	static
+../Core/Src/GUI.c:28:6:Paint_DrawChar	24	static

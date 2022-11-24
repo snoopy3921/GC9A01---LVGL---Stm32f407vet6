@@ -1,0 +1,14 @@
+../Core/Src/GC9A01.c:27:6:SwapBytes	24	static
+../Core/Src/GC9A01.c:31:13:GC9A01_WriteCmd	16	static
+../Core/Src/GC9A01.c:36:13:GC9A01_WriteByte	16	static
+../Core/Src/GC9A01.c:41:13:GC9A01_WriteBuff	16	static
+../Core/Src/GC9A01.c:48:6:my_flush_cb	32	static
+../Core/Src/GC9A01.c:74:6:GC9A01_HardReset	8	static
+../Core/Src/GC9A01.c:81:13:ColumnSet	16	static
+../Core/Src/GC9A01.c:97:13:RowSet	16	static
+../Core/Src/GC9A01.c:112:6:GC9A01_SetWindow	24	static
+../Core/Src/GC9A01.c:157:6:GC9A01_DrawPixel	16	static
+../Core/Src/GC9A01.c:166:10:GC9A01_GetPixel	24	static
+../Core/Src/GC9A01.c:175:6:GC9A01_FillRect	32	static
+../Core/Src/GC9A01.c:213:6:GC9A01_Update	16	static
+../Core/Src/GC9A01.c:236:6:GC9A01_init	8	static

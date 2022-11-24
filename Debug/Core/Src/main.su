@@ -1,0 +1,7 @@
+C:/Users/giahu/source/TFT/lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+../Core/Src/main.c:3676:5:main	8	static
+../Core/Src/main.c:3767:6:SystemClock_Config	88	static
+../Core/Src/main.c:3813:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:3849:13:MX_DMA_Init	16	static
+../Core/Src/main.c:3867:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:3895:6:Error_Handler	4	static,ignoring_inline_asm

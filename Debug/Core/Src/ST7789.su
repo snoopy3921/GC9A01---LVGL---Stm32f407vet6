@@ -1,0 +1,7 @@
+../Core/Src/ST7789.c:21:13:ST7789_WriteData	24	static
+../Core/Src/ST7789.c:49:13:ST7789_WriteCommand	16	static
+../Core/Src/ST7789.c:62:13:ST7789_WriteSmallData	16	static
+../Core/Src/ST7789.c:71:13:ST7789_SetAddressWindow	40	static
+../Core/Src/ST7789.c:99:6:ST7789_Init	56	static
+../Core/Src/ST7789.c:161:6:ST7789_Fill_Color	24	static
+../Core/Src/ST7789.c:175:6:ST7789_SetRotation	16	static

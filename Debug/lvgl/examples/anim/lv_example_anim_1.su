@@ -1,0 +1,10 @@
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:121:20:lv_anim_set_var	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:133:20:lv_anim_set_exec_cb	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:143:20:lv_anim_set_time	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:164:20:lv_anim_set_values	24	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:191:20:lv_anim_set_path_cb	16	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/anim/lv_example_anim_1.c:4:13:anim_x_cb	16	static
+../lvgl/examples/anim/lv_example_anim_1.c:9:13:sw_event_cb	96	static
+../lvgl/examples/anim/lv_example_anim_1.c:39:6:lv_example_anim_1	16	static

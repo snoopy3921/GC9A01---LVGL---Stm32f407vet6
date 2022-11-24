@@ -1,0 +1,4 @@
+c:\users\giahu\source\tft\lvgl\src\misc\lv_area.h:284:26:lv_pct	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/widgets/textarea/lv_example_textarea_2.c:8:6:lv_example_textarea_2	40	static
+../lvgl/examples/widgets/textarea/lv_example_textarea_2.c:45:13:ta_event_cb	24	static

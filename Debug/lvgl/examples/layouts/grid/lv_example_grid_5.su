@@ -1,0 +1,11 @@
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:121:20:lv_anim_set_var	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:133:20:lv_anim_set_exec_cb	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:143:20:lv_anim_set_time	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:164:20:lv_anim_set_values	24	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:232:20:lv_anim_set_playback_time	16	static
+C:/Users/giahu/source/TFT/lvgl/src/misc/lv_anim.h:252:20:lv_anim_set_repeat_count	16	static
+c:\users\giahu\source\tft\lvgl\src\core\lv_obj_pos.h:199:20:lv_obj_center	16	static
+C:/Users/giahu/source/TFT/lvgl/src/core/lv_disp.h:162:26:lv_scr_act	8	static
+../lvgl/examples/layouts/grid/lv_example_grid_5.c:4:13:row_gap_anim	16	static
+../lvgl/examples/layouts/grid/lv_example_grid_5.c:9:13:column_gap_anim	16	static
+../lvgl/examples/layouts/grid/lv_example_grid_5.c:17:6:lv_example_grid_5	112	static
